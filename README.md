@@ -7,9 +7,6 @@
 🎓 Junior at UNLV studying Computer Science and Math
 🥋 Brazilian Jiu-Jitsu instructor
 🌎 English and Spanish native, learning ASL and Mandarin
-🔥 Projects
-🎥 MotionBoxPro
-Markerless motion capture for indie game developers. It turns video into exportable 3D skeletons.
 
 Python Django React TypeScript DigitalOcean
 
