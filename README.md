@@ -4,7 +4,6 @@
 
 🚀 About me
 🤖 AI Engineer Intern at a construction company
-🛠️ Building full-stack tools, data pipelines into Cloud SQL, and an MCP server that gives Claude access to project budget data so estimators draft estimates faster
 🎓 Junior at UNLV studying Computer Science and Math
 🥋 Brazilian Jiu-Jitsu instructor
 🌎 English and Spanish native, learning ASL and Mandarin
@@ -13,9 +12,6 @@
 Markerless motion capture for indie game developers. It turns video into exportable 3D skeletons.
 
 Python Django React TypeScript DigitalOcean
-
-⚖️ app-legal-compliance
-An agent skill that checks apps against laws that often lead to lawsuits: ADA/WCAG, GDPR, CCPA, HIPAA, PCI DSS, and more.
 
 🧰 Tech stack
 💻 Languages<br> Python SQL TypeScript JavaScript R C++ Java
