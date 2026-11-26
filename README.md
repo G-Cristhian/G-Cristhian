@@ -1,18 +1,27 @@
-Hi, I'm Cristhian
-I'm an AI engineer and a CS + Math student at UNLV, based in Las Vegas.
+<h1 align="center">Hi, I'm Cristhian 👋</h1> <p align="center"><b>AI Engineer · CS + Math @ UNLV · Las Vegas 🎰</b></p>
 
-Right now I'm an AI Engineer Intern at a construction company. I build full-stack tools for construction project management, data pipelines into Cloud SQL, and an MCP server that gives Claude access to project budget data so our estimators can draft estimates faster.
+<p align="center"> <a href="https://linkedin.com/in/gcristhian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:G.Cristhian@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a> <a href="https://github.com/G-Cristhian"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> </p>
 
-Projects
-MotionBoxPro: Markerless motion capture for indie game developers. It turns video into exportable 3D skeletons. Built with Python, Django, React, and TypeScript, and deployed through GitHub Actions to DigitalOcean.
-app-legal-compliance: An agent skill that checks applications against laws that often lead to lawsuits, including ADA/WCAG, GDPR, CCPA, HIPAA, and PCI DSS.
-Tools I use
-Languages: Python, SQL, TypeScript, JavaScript, R, C++, Java
-AI: Claude API, Claude Agent SDK, OpenAI Agents SDK, MCP, PyTorch, scikit-learn
-Data: PostgreSQL, pandas, NumPy, ETL pipelines, Tableau
-Web & Cloud: React, Node.js, Express, FastAPI, Django, GCP, AWS, Docker, GitHub Actions
-Outside of code
-I teach Brazilian Jiu-Jitsu, and I speak English and Spanish natively. I'm also learning ASL and Mandarin.
+🚀 About me
+🤖 AI Engineer Intern at a construction company
+🛠️ Building full-stack tools, data pipelines into Cloud SQL, and an MCP server that gives Claude access to project budget data so estimators draft estimates faster
+🎓 Junior at UNLV studying Computer Science and Math
+🥋 Brazilian Jiu-Jitsu instructor
+🌎 English and Spanish native, learning ASL and Mandarin
+🔥 Projects
+🎥 MotionBoxPro
+Markerless motion capture for indie game developers. It turns video into exportable 3D skeletons.
 
-Contact
-LinkedIn Â· Email
+Python Django React TypeScript DigitalOcean
+
+⚖️ app-legal-compliance
+An agent skill that checks apps against laws that often lead to lawsuits: ADA/WCAG, GDPR, CCPA, HIPAA, PCI DSS, and more.
+
+🧰 Tech stack
+💻 Languages<br> Python SQL TypeScript JavaScript R C++ Java
+
+🤖 AI<br> Claude OpenAI MCP PyTorch scikit-learn
+
+📊 Data<br> PostgreSQL pandas NumPy Tableau
+
+☁️ Web & Cloud<br> React Node.js FastAPI Django GCP AWS Docker GitHub Actions
